@@ -1,0 +1,21 @@
+{
+	"name": "__MSG_extName__",
+	"description": "__MSG_extDescr__",
+	"version": "1.1.0.1",
+	"manifest_version": 2,
+	"default_locale": "en",
+	"icons": {
+		"128": "icons/icon128.png",
+		"48": "icons/icon48.png"
+	},
+	"permissions": ["storage",
+	"http://itc.ua/*"],
+	"incognito": "split",
+	"content_scripts": [{
+		"all_frames": true,
+		"js": [
+		"js/myscript.js"],
+		"matches": ["http://itc.ua/*"],
+		"run_at": "document_end"
+	}]
+}
