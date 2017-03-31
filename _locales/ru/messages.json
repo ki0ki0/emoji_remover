@@ -1,13 +1,10 @@
 {
   "extName": {
-    "message": "Конвертор валют для Google Wallet™",
+    "message": "Без эмодзи",
     "description": "Name of extension."
   },
   "extDescr": {
-    "message": "Ковертирует все цени на Google Wallet™ к выбранной Вами валюте. Также выводит общую сумму.",
+    "message": "Удаляет все эмодзи на любом вебсайте",
     "description": "Description of extension."
-  },
-  "total": {
-    "message": "Всего"
   }
 }

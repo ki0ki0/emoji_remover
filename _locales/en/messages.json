@@ -1,13 +1,10 @@
 {
   "extName": {
-    "message": "Currency Converter for Google Wallet™",
+    "message": "No more emoji",
     "description": "Name of extension."
   },
   "extDescr": {
-    "message": "Converts all prices on Google Wallet™ to one currency which You selected. Shows total spent value.",
+    "message": "Removes all emoji from any website.",
     "description": "Description of extension."
-  },
-  "total": {
-    "message": "Total"
   }
 }
